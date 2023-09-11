@@ -12,6 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlannaCSD&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlannaCSD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=AlannaCSD&label=Profile%20Views&icon=5&pretty=false" />
+</a>
 ---
 [![](https://visitcount.itsvg.in/api?id=AlannaCSD&icon=0&color=0)](https://visitcount.itsvg.in)
 
