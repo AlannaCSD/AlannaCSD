@@ -1,5 +1,4 @@
 # 💫 About Me:
-Em 2022, concluí minha formação como Técnica em Tecnologia da Informação e atualmente estou no segundo semestre do curso de Análise e Desenvolvimento de Sistemas no Senac. Meu entusiasmo pelo desenvolvimento front-end surgiu desde o início da minha jornada técnica e foi fortalecido por experiências compartilhadas com colegas e mentores. Possuo competências em criatividade, trabalho em equipe, resolução de problemas e proatividade, que me impulsionam a buscar constantemente o aprimoramento e contribuir de forma significativa no desenvolvimento de sistemas.
 
 
 ## 🌐 Socials:
